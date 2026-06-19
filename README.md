@@ -88,7 +88,7 @@ python -m src.pipelines.llm_pipeline
 
 # 4. 팀정보
 - PM: 노준혁
-- Data: 김하나, 전수현
+- Data: 김하나
 - Retrieval: 노준혁
 - Generation: 백예나
 - Evaluation: 조민수
