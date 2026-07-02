@@ -5,7 +5,7 @@
 
 이 저장소는 팀 공용 저장소(AI-Sprint-Team3/AI-RAG-Team3)에서 개인 기록·포트폴리오 용도로 옮겨온 개인 저장소입니다.
 
-> 이 저장소에는 팀 프로젝트의 전체 코드(생성 단계, UI 등 다른 팀원 담당 파트 포함)가 그대로 담겨 있습니다. 아래 "나의 기여" 항목에 명시된 부분이 본인이 직접 작업한 범위이며, 그 외 코드는 팀원들의 작업물입니다.
+> 이 저장소에는 팀 프로젝트의 전체 코드(생성 단계, UI 등 다른 팀원 담당 파트 포함)가 그대로 담겨 있습니다. 아래 "My Contribution" 항목에 명시된 부분이 본인이 직접 작업한 범위이며, 그 외 코드는 팀원들의 작업물입니다.
 
 ## My Contribution
 
@@ -50,7 +50,7 @@
 Python, PyMuPDF, pyhwp, pdfplumber, OCR, OpenAI Embedding, FAISS, Cross-Encoder, Git
 
 <details>
-<summary>프로젝트 상세 정보 (목적 · 파일 구조 · 설치 및 실행 · 팀 기술 스택)</summary>
+<summary><h3>프로젝트 상세 정보 (목적 · 파일 구조 · 설치 및 실행 · 팀 기술 스택)</h3></summary>
 
 ### 목적
 
