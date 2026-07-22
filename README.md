@@ -151,4 +151,4 @@ Python 3.10+, OpenAI API, LangChain, ChromaDB/FAISS, Streamlit
 
 ## 보고서 및 발표자료
 
-- 발표자료(수정본): [3팀_발표자료_최종.pdf](https://drive.google.com/file/d/1TiU4ibGvlsDzf4_YjGhkVQWDgBz3-m3E/view?usp=drive_link)
+- 발표자료(수정본): [RAG_기반_챗봇_서비스.pdf](https://drive.google.com/file/d/1TiU4ibGvlsDzf4_YjGhkVQWDgBz3-m3E/view?usp=drive_link)
