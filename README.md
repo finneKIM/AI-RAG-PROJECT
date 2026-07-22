@@ -152,4 +152,4 @@ Python 3.10+, OpenAI API, LangChain, ChromaDB/FAISS, Streamlit
 ## 보고서 및 발표자료
 
 - 파트별 정리 사항: https://www.notion.so/277df0f96e6d806db567e60a2a95570c
-- 발표자료(수정본): [3팀_발표자료_최종.pdf](https://github.com/user-attachments/files/22653200/3._._.pdf)
+- 발표자료(수정본): [3팀_발표자료_최종.pdf](https://drive.google.com/file/d/1TiU4ibGvlsDzf4_YjGhkVQWDgBz3-m3E/view?usp=drive_link)
